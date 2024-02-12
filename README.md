@@ -4,7 +4,7 @@
 
 </p>
 
-- 🔭 I’m currently working on **Zoro Eat's** (a food delivery website )
+- 🔭 I’m currently Building on **Zoro Eat's** (a food delivery website )
 
 - 🌱 I’m currently learning **MERN**
 
