@@ -4,7 +4,7 @@
 
 </p>
 
-- 🔭 I’m currently Building on **Zoro Eat's** (a food delivery website )
+- 🔭 I’m currently Building on **MovieMind** (a Gpt powered OTT platform focused on frontend with firebase )
 
 - 🌱 I’m currently learning **MERN**
 
